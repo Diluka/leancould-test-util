@@ -1,0 +1,23 @@
+{
+  "name": "leancould-test-util",
+  "version": "1.0.0",
+  "description": "leancloud cloud function test util",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diluka/leancould-test-util.git"
+  },
+  "keywords": [
+    "leancloud",
+    "test"
+  ],
+  "author": "Diluka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Diluka/leancould-test-util/issues"
+  },
+  "homepage": "https://github.com/Diluka/leancould-test-util#readme"
+}
